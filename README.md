@@ -1,7 +1,7 @@
 # Power-BI-Project
 Power BI is used to visualize and analyze hospital performance data through interactive dashboards for better decision-making.
 
-## Hospital Performance Analysis Dashboard (Power BI Project)
+## Comprehensive Hospital Analytics and Operational Performance (Power BI Project)
 
 ## Overview
 This project visualizes hospital operations and patient data to improve healthcare management and performance monitoring.It provides key insights into appointments, treatment trends, payment methods, and patient demographics using an interactive Power BI dashboard.
